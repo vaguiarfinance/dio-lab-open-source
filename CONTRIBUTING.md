@@ -45,6 +45,7 @@
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                              |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
+| `chore`         | Para tarefas de manutenção ou ajustes que não afetam o código de produção.                                                                  |
 
 ##### Exemplo commit
 
